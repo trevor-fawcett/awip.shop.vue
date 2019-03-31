@@ -1,5 +1,9 @@
 # awip.shop.vue
 
+This is part of a comparison project, discovering the pros and cons between React and Vue, whilst building a shop.
+
+Read more at https://trevorfawcett.net/shop.
+
 ## Project setup
 ```
 yarn install
